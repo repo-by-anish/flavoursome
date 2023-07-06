@@ -17,8 +17,7 @@ export default function Testimonials() {
               <img src={avatar1} alt="" />
             </div>
             <p>
-              He Printing and Typesetting the industry. <span>Lorem Ipsum</span>{" "}
-              has been the Industry's
+            Premium Pan Free Hand Toast: <span>Crispy perfection</span>{" "} in every bite!
             </p>
           </div>
           <div className="testimonial">
@@ -26,8 +25,7 @@ export default function Testimonials() {
               <img src={avatar1} alt="" />
             </div>
             <p>
-              He Printing and Typesetting the industry. <span>Lorem Ipsum</span>{" "}
-              has been the Industry's
+            This food is a taste sensation! The combination of <span>ingredients</span>{" "} is harmonious, creating a symphony of flavors that dance on your palate. 
             </p>
           </div>
           <div className="testimonial">
@@ -35,8 +33,7 @@ export default function Testimonials() {
               <img src={avatar1} alt="" />
             </div>
             <p>
-              He Printing and Typesetting the industry. <span>Lorem Ipsum</span>{" "}
-              has been the Industry's
+            Savor the convenience and flavor of our delectable .<span>Premium Pan Free Hand Toast</span>
             </p>
           </div>
         </div>

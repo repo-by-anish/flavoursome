@@ -11,22 +11,26 @@ export default function Products() {
       image: product1,
       name: "Chicken Burger",
       price: "$22.4/pcs",
+      desc:"A mouthwatering delight that satisfies your cravings."
     },
     {
       image: product2,
       name: "Toasted Bread",
       price: "$5.5/pcs",
+      desc:"Crispy, golden perfection in every bite."
     },
     {
       image: product3,
       name: "Egg Sandwich",
       price: "$8/pcs",
+      desc:"A breakfast classic that hits all the right notes."
     },
 
     {
       image: product4,
       name: "Raspberry Cake",
       price: "$12.5/pcs",
+      desc:"A sweet temptation you won't be able to resist."
     },
   ];
   return (
@@ -45,7 +49,7 @@ export default function Products() {
               </div>
               <h2>{product.name}</h2>
               <h3>{product.price}</h3>
-              <p>He Printing and Typesetting the industry. Lorem Ipsum has</p>
+              <p>{product.desc}</p>
               <button>Buy Now</button>
             </div>
           );

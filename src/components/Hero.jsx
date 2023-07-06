@@ -19,8 +19,7 @@ export default function Hero() {
         <div className="info">
           <h2>RETAILER</h2>
           <em>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam
-            aspernatur itaque, eius quia voluptas numquam!
+            Satisfy your cravings with a single bite. Order now and taste the extraordinary.
           </em>
           <button>ORDER NOW</button>
         </div>

@@ -9,9 +9,7 @@ export default function Newsletter() {
           <span>Subscribe</span> Newsletter
         </h1>
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quas
-          perferendis nesciunt illum, voluptas nulla laborum alias similique
-          praesentium quam.
+        Stay in the loop and never miss a beat. Subscribe to our newsletter for the latest updates, exclusive offers, and exciting news!
         </p>
       </div>
       <div className="container">

@@ -12,8 +12,7 @@ export default function Footer() {
         <div className="brand container">
           <img src={logo} alt="" />
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis,
-            repudiandae.
+          Join us and discover a culinary journey that will ignite your taste buds and nourish your soul. Welcome to our culinary haven.
           </p>
           <ul>
             <li>
@@ -35,9 +34,7 @@ export default function Footer() {
             <h3>About Us</h3>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam,
-            eligendi repellat laudantium blanditiis iure nulla, ut aliquam
-            itaque unde nesciunt cum veritatis perferendis vel expedita! Nam
+          We are a culinary sanctuary, where gastronomic wonders come to life. With a commitment to excellence, we serve up tantalizing flavors and impeccable dishes that leave a lasting impression. Our warm hospitality and inviting atmosphere set the stage for unforgettable moments.
           </p>
         </div>
         <div className="contact container">
@@ -45,14 +42,14 @@ export default function Footer() {
             <h3>Contact Us</h3>
           </div>
           <p>+91 1231231231</p>
-          <p>foodyummy@gmail.com</p>
-          <p>@foodyummy</p>
+          <p>flavorsome@gmail.com</p>
+          <p>@flavorsome</p>
           <p>412 Street, Ground Floor, India</p>
         </div>
       </Section>
       <LowerFooter className="lower__footer">
         <h2>
-          Copyright &copy; 2021 <span>Food Yummy</span>
+          Copyright &copy; 2021 <span>Flavorsome Delights</span>
         </h2>
       </LowerFooter>
     </div>

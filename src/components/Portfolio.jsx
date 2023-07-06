@@ -10,8 +10,7 @@ export default function Portfolio() {
       <div className="content">
         <h1>Buy Premium Pan Free Hand Toast!</h1>
         <h2>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Modi,
-          molestias!
+        Upgrade your breakfast game with our Premium Pan Free Hand Toast! Bite into perfection with every crispy, flavorful slice.
         </h2>
         <button>Buy Now</button>
       </div>
